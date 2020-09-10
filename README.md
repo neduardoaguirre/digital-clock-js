@@ -4,7 +4,7 @@ This is a simple digital clock made with javascript.
 
 ## Live Preview
 
-<p><a href="https://neduardoaguirre.github.io/digital-clock-js/" target="_blank"> <img src="https://raw.githubusercontent.com/neduardoaguirre/digital-clock-js/master/ubicacion"></a></p>
+<p><a href="https://neduardoaguirre.github.io/digital-clock-js/" target="_blank"> <img src="https://raw.githubusercontent.com/neduardoaguirre/digital-clock-js/master/digital-clock-js-preview.jpg"></a></p>
 
 ### Technologies Used
 
