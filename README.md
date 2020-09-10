@@ -1,6 +1,6 @@
 # digital-clock-js
 
-This is a simple digital clock made with javascript.
+This is a simple digital clock made with JavaScript.
 
 ## Live Preview
 
