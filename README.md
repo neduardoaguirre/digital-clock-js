@@ -1,4 +1,4 @@
-# digital-clock-js
+# Digital Clock JavaScript
 
 This is a simple digital clock made with JavaScript.
 
